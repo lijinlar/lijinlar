@@ -1,5 +1,5 @@
-I am an Industry Digitalisation Consultant 
-⇔ co-founder EsyaWeb ⇔ Author ⇔ Blogger ⇔ Entrepreneur ⇔
+I am an AI/ML Architect
+⇔ founder babbagenz.com ⇔ Author ⇔ Blogger ⇔ Entrepreneur ⇔
 Know more -> lintuism.in
 
 <!---
