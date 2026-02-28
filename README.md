@@ -1,6 +1,4 @@
-I am an AI/ML Architect
+📍 Abu Dhabi | 🤖 AI/ML Architect | Building tools that let agents do the heavy lifting
 
-<!---
-lijinlar/lijinlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🖥️ [handsfree-windows](https://github.com/lijinlar/handsfree-windows) - Let the agent control your Windows desktop
+- 🎬 [ai-shorts-lab](https://github.com/lijinlar/ai-shorts-lab) - Let the agent manage your YouTube Shorts
